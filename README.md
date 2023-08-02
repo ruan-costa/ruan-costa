@@ -1,8 +1,8 @@
 ### Olá, Seja bem vindo (a)! 👋
 
 - Cursando Análise e Desenvolvimento de sistemas na UNINABUCO DIGITAL.
-- Atualmente estou Estudando: .NET | C# | SQL.
-- em busca da Primeira oportunidade na área de Desenvolvimento.
+- Atualmente estou Estudando: POWER BI | PYTHON | SQL.
+- em transição de carreira.
  <div>
   <a href="https://github.com/ruan-costa">
 <img src ="https://github-readme-stats.vercel.app/api?username=ruan-costa&show_icons=true&theme=tokyonight">
