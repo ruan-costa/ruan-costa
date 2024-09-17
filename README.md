@@ -1,7 +1,7 @@
 ### Olá, Seja bem vindo (a)! 👋
 
 - Cursando Análise e Desenvolvimento de sistemas na UNINABUCO DIGITAL.
-- Atualmente estou Estudando: POWER BI | PYTHON | SQL.
+- Skilss POWER BI | PYTHON | SQL | RPA | ETL | DAX.
 - Analista MiS.
  <div>
   <a href="https://github.com/ruan-costa">
