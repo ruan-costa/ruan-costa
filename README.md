@@ -2,7 +2,7 @@
 
 - Cursando Análise e Desenvolvimento de sistemas na UNINABUCO DIGITAL.
 - Atualmente estou Estudando: POWER BI | PYTHON | SQL.
-- em transição de carreira.
+- Analista MiS.
  <div>
   <a href="https://github.com/ruan-costa">
 <img src ="https://github-readme-stats.vercel.app/api?username=ruan-costa&show_icons=true&theme=tokyonight">
