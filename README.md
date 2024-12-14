@@ -4,9 +4,9 @@
 - Skills: POWER BI | PYTHON | SQL | RPA | ETL | DAX.
 - Analista B.I
 
-<div>
+<div style="width: 400px; margin-bottom: 20px;">
   <a href="https://github.com/ruan-costa" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=ruan-costa&show_icons=true&theme=tokyonight" alt="Ruan Costa GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ruan-costa&show_icons=true&theme=tokyonight" alt="Ruan Costa GitHub Stats" style="width: 100%; height: auto;">
   </a>
 </div>
 
